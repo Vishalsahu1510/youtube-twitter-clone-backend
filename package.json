@@ -16,7 +16,7 @@
         "backend",
         "coffee"
     ],
-    "author": "Hruthik",
+    "author": "Vishal",
     "license": "ISC",
     "devDependencies": {
         "nodemon": "^3.0.1",
