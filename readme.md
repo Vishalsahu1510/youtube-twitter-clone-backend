@@ -7,10 +7,6 @@ and also combines the tweet functionality from twitter into it. Find more about 
 
 ## Important links
 
-| Content            | Link                                                                        |
-| -------------------| ----------------------------------------------------------------------------|
-| API Documentation  | [click here](https://documenter.getpostman.com/view/28570926/2s9YsNdVwW)    |
-| Model              | [click here ](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)         |
 
 ## Features
 
@@ -73,9 +69,7 @@ and also combines the tweet functionality from twitter into it. Find more about 
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/Hruthik-28/youtube-twitter.git
-    ```
+    
 
 2. **Install dependencies:**
 
